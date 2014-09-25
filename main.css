@@ -1,0 +1,216 @@
+.main {
+
+}
+
+.outer-shell {
+	width: 800px;
+	height: 300px;
+	position: relative;
+	margin: auto;
+	margin-top: 200px;
+	background: darkgray;
+	border-radius: 10px;
+}
+
+.inner-shell{
+	width: 600px;
+	height: 250px;
+	background: black;
+	position: absolute;
+	top: 25px;
+	left: 100px;
+	border-radius: 5px;
+}
+
+.left-labels {
+	color: white;
+	position: absolute;
+	top: 23px;
+	right: 510px;
+	text-align: right;
+	font-size: 19px;
+	line-height: 52px;
+}
+
+.clock-screen {
+	width: 400px;
+	height: 150px;
+	position: absolute;
+	top: 25px;
+	left: 100px;
+	background: darkred;
+	border-radius: 5px;
+
+}
+
+.clock-text {
+	color: red;
+	font-size: 135px;
+	text-align: right;
+	padding-right: 10px;
+}
+
+.clock-text-alarm {
+	color: red;
+	font-size: 135px;
+	text-align: right;
+	padding-right: 10px;
+}
+
+.indicator-pm {
+	color: red;
+	font-size: 140px;
+	position: absolute;
+	top: -97px;
+	left: 3px;
+}
+
+.indicator-am {
+	color: red;
+	font-size: 140px;
+	position: absolute;
+	top: -46px;
+	left: 3px;
+}
+
+.indicator-auto {
+	color: red;
+	font-size: 140px;
+	position: absolute;
+	top: 6px;
+	left: 3px;
+}
+
+.am-frequencies {
+	position: absolute;
+	bottom: 45px;
+	left: 182px;
+	color: white;
+	word-spacing: 13px;
+}
+
+.fm-frequencies {
+	position: absolute;
+	bottom: 25px;
+	left: 182px;
+	color: white;
+	word-spacing: 20px;
+}
+
+.am-label {
+	color: white;
+	position: absolute;
+	left: 105px;
+	bottom: 45px;
+}
+
+.fm-label {
+	color: white;
+	position: absolute;
+	left: 105px;
+	bottom: 25px;
+}
+
+.alarm-slider {
+	background: black;
+	width: 80px;
+	height: 5px;
+	position: absolute;
+	top: -5px;
+	left: 55px;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.alarm-on {
+	background: darkred;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	top: -20px;
+	left: 15px;
+
+}
+
+.alarm-off {
+	background: darkred;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	top: -20px;
+	left: 45px;
+
+}
+
+.alarm-label {
+	position: absolute;
+	top: 4px;
+	left: 61px;
+	word-spacing: 9px;
+	color: white;
+}
+
+.set-alarm {
+	position: absolute;
+	top: 25px;
+	left: 23px;
+	background: black;
+	color: white;
+	border-radius: 5px;
+	padding: 5px;
+	font-size: 10px;
+}
+
+.setIt {
+	position: absolute;
+	top: 25px;
+	left: 23px;
+	background: black;
+	color: white;
+	border-radius: 5px;
+	padding: 5px;
+	font-size: 10px;
+}
+
+.alarm-hour-up {
+top: 50px;
+left: 23px;
+background: black;
+padding: 5px;
+color: white;
+border-radius: 5px;
+position: absolute;
+font-size: 8px;
+}
+
+.alarm-minute-up {
+	top: 50px;
+left: 64px;
+background: black;
+padding: 5px;
+color: white;
+border-radius: 5px;
+position: absolute;
+font-size: 8px;
+}
+
+.transparent {
+	color: transparent;
+}
+
+.flash {
+	background: red;
+}
+
+
+
+
+
+
+
+
+
