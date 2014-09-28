@@ -206,6 +206,40 @@ font-size: 8px;
 	background: red;
 }
 
+.alarm-button {
+background: black;
+color: red;
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+position: absolute;
+top: -15px;
+left: 180px;
+border-bottom: none;
+height: 15px;
+width: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
